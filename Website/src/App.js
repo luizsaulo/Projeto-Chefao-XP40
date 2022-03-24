@@ -1,4 +1,3 @@
-import './index.css';
 import Routes from './Routes';
 import GlobalStyles from './assets/styles/Global';
 
